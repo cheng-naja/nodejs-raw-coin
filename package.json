@@ -1,0 +1,25 @@
+{
+  "name": "nodejs-raw-coin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tsc -w",
+    "start": "tsc && node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/worawit-dil/nodejs-raw-coin.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/worawit-dil/nodejs-raw-coin/issues"
+  },
+  "homepage": "https://github.com/worawit-dil/nodejs-raw-coin#readme",
+  "devDependencies": {
+    "@types/node": "^16.11.4",
+    "typescript": "^4.4.4"
+  }
+}
